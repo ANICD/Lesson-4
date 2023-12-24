@@ -1,0 +1,14 @@
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/obj/Debug/net8.0/Task-3.GeneratedMSBuildEditorConfig.editorconfig
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/obj/Debug/net8.0/Task-3.AssemblyInfoInputs.cache
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/obj/Debug/net8.0/Task-3.AssemblyInfo.cs
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/obj/Debug/net8.0/Task-3.csproj.CoreCompileInputs.cache
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/bin/Debug/net8.0/Task-3
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/bin/Debug/net8.0/Task-3.deps.json
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/bin/Debug/net8.0/Task-3.runtimeconfig.json
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/bin/Debug/net8.0/Task-3.dll
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/bin/Debug/net8.0/Task-3.pdb
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/obj/Debug/net8.0/Task-3.dll
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/obj/Debug/net8.0/refint/Task-3.dll
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/obj/Debug/net8.0/Task-3.pdb
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/obj/Debug/net8.0/Task-3.genruntimeconfig.cache
+/media/u2/256GB/EDU/GeekBrain/Знакомство_с_языками_программирования/projects_c#/Lesson-4/Task-3/obj/Debug/net8.0/ref/Task-3.dll
